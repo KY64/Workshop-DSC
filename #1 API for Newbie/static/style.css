@@ -44,7 +44,7 @@ footer > h4 {
 #about-me > p {
     font-weight: lighter;
     font-size: 16pt;
-    width: 800px;
+    width: 960px;
     margin: 0;
 }
 
@@ -83,25 +83,6 @@ footer > h4 {
 #video {
     overflow: auto;
     white-space: nowrap;
-}
-
-.column1,.column2,.column3 {
-    display: flex;
-    flex-direction: column;
-}
-
-.pic1,.pic2,.pic3,.pic4,.pic5,.pic6,.pic7,.pic8,.pic9 {
-    overflow: hidden;
-}
-
-.pic1, .pic6, .pic8, .pic9 {
-    width: 300px;
-    height: 235px;
-}
-
-.pic3, .pic4, .pic7 {
-    width: 300px;
-    height: 270px;
 }
 
 .title {
